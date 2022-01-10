@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="300" src="https://miro.medium.com/max/700/0*yBvA5CnEX3Sd4aod.gif" /></a>
+    <img width="300" src="https://miro.medium.com/max/700/0*yBvA5CnEX3Sd4aod.gif" />
   <h2> :sparkles: Olá, eu sou a Laís :sparkles: </h2>
   </div>
  
@@ -11,7 +11,7 @@
     <a target="_blank" href="mailto:laisresende690@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/laisresende/">
+    <a target="_blank" href="https://www.linkedin.com/in/lais-resende/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
