@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="300" src="https://user-images.githubusercontent.com/63600570/148809460-37a4ca3b-1f29-4222-86be-be85e603db12.png" /></a>
+    <img width="300" src="https://miro.medium.com/max/700/0*yBvA5CnEX3Sd4aod.gif" /></a>
   <h2> :sparkles: Olá, eu sou a Laís :sparkles: </h2>
   </div>
  
