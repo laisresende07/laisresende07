@@ -62,18 +62,3 @@ Você pode me encontrar por aqui:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laisresende07&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-<br/> 
-
----
-
-<br/>
-
-
-&nbsp;&nbsp;<a target="_blank" href="https://open.spotify.com/user/laisresende07">
-    <img alt="spotify" src="https://user-images.githubusercontent.com/63600570/150416932-36a76893-f3a5-4097-9a07-ade8d2007b4c.png" width="22" />
-</a>&nbsp;&nbsp;Escuta comigo:
-
-<br/>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=laisresende07&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=laisresende07&redirect=true)
