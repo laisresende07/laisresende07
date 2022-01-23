@@ -57,8 +57,5 @@ Você pode me encontrar por aqui:
 
 <br/>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laisresende07&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![Snake animation](https://github.com/laisresende07/laisresende07/blob/output/github-contribution-grid-snake.svg)
 
