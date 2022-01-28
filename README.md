@@ -16,9 +16,6 @@ Você pode me encontrar por aqui:
 <a target="_blank" href="https://www.instagram.com/laisresende07/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px; margin: 2px" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5537988283884&text=Oi,%20encontrei%20seu%20perfil%20no%20Github">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px; margin: 2px" />
-</a>
 <a target="_blank" href="https://t.me/laisresende07">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 30px; margin: 2px" />
 </a>
