@@ -16,12 +16,6 @@ Você pode me encontrar por aqui:
 <a target="_blank" href="https://www.instagram.com/laisresende07/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px; margin: 2px" />
 </a>
-<a target="_blank" href="https://t.me/laisresende07">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 30px; margin: 2px" />
-</a>
-<a target="_blank" href="mailto:laisresende07@hotmail.com">
-    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px; margin: 2px" />
-</a>
 
 
 <br/><br/>
