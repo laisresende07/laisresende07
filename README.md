@@ -1,6 +1,6 @@
 <img align='right' src="https://miro.medium.com/max/700/0*yBvA5CnEX3Sd4aod.gif" width="280" />
 <h2>✨ Oi, eu sou a Laís! </h2>
-<p><em>Desenvolvedora de software </br> Bacharel em Ciência da Computação - <a href="https://www.uniformg.edu.br/">UNIFOR-MG</a>
+<p><em>Desenvolvedora front-end </br> Bacharel em Ciência da Computação - <a href="https://www.uniformg.edu.br/">UNIFOR-MG</a> </br> Volutária - <a href="https://womakerscode.org/">WoMakersCode</a>
 </em></p>
 
 <br/><br/>
