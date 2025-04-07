@@ -1,6 +1,6 @@
 <img align='right' src="https://miro.medium.com/max/700/0*yBvA5CnEX3Sd4aod.gif" width="380" />
 <h2>✨ Oi, eu sou a Laís! </h2>
-<p><em>Desenvolvedora front-end - <a href="https://www.onze.com.br/">Onze</a> </br> Bacharel em Ciência da Computação - <a href="https://www.uniformg.edu.br/">UNIFOR-MG</a></br> Pós-graduanda em Engenharia de Software - <a href="https://www.pucminas.br/destaques/Paginas/default.aspx">PUC Minas</a> </br> Voluntária - <a href="https://womakerscode.org/">WoMakersCode</a>
+<p><em>Desenvolvedora front-end - <a href="https://www.mlabs.com.br/">mLabs</a> </br> Bacharel em Ciência da Computação - <a href="https://www.uniformg.edu.br/">UNIFOR-MG</a></br> Pós-graduada em Engenharia de Software - <a href="https://www.pucminas.br/destaques/Paginas/default.aspx">PUC Minas</a> 
 </em></p>
 
 <br/><br/>
